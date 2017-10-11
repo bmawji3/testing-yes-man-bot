@@ -1,0 +1,5 @@
+https://blog.hartleybrody.com/fb-messenger-bot/
+https://github.com/hartleybrody/fb-messenger-bot
+https://stackoverflow.com/questions/37147755/fb-messenger-cant-receive-messages
+https://developers.facebook.com/docs/messenger-platform/webhook/
+https://developers.facebook.com/docs/messenger-platform/reference/send-api
